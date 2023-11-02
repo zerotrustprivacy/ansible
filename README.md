@@ -19,11 +19,11 @@
 
  <h1>Getting Started</h1>
  <p>Starting in Visual Studio Code, I opened a new terminal and created a directory called <i>ansible-files</i> and then navigated to that directory</p>
- <p><a href="ansible1.png"></a></p>
+ <p><img src="ansible1.png"></p>
   
   <h1>Create the Playbook and run the Playbook</h1>
   <p>Create an apache.yml file using the vim editor</p>
- <p><a href="ansible3.png"></a></p>
+ <p><img src="ansible3.png"></p>
   
   <p>Use the command <i>ansible-navigator run apache.yml</i></p>
- <p><a href="ansible4.png"></a></p>
+ <p><img src="ansible4.png"></p>
