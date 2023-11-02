@@ -18,7 +18,7 @@
  </p>
 
  <h1>Getting Started</h1>
- <p>Starting in Visual Studio Code, I opened a new terminal and created a directory called <i>ansible-files</i> and then navigated to that directory</p>
+ <p>Starting in Visual Studio Code, opened a new terminal and created a directory called <i>ansible-files</i> and then navigated to that directory</p>
  <p><img src="ansible1.png"></p>
   
   <h1>Create the Playbook and run the Playbook</h1>
@@ -28,7 +28,7 @@
   <p>Use the command <i>ansible-navigator run apache.yml</i> This will install the Apache server.</p>
  <p><img src="ansible4.png"></p>
 
- <p>Once the playbook is completed, I connect to node1 using SSH to check that Apache has been installed. Exit and create a new file called <i>package.yml</i>. Run this using <i>ansible-navigator run package.yml</i></p>
+ <p>Once the playbook is completed, connect to node1 using SSH to check that Apache has been installed. Exit and create a new file called <i>package.yml</i>. Run this using <i>ansible-navigator run package.yml</i></p>
  <p><img src="ansible5.png"></p>
  <p><img src="ansible6.png"></p>
  <p><img src="ansible7.png"></p>
